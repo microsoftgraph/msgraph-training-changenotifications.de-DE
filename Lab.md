@@ -16,7 +16,7 @@ In dieser Übungseinheit erstellen Sie eine .net-Kern Konsolenanwendung, die Än
 
 ## <a name="prerequisites"></a>Voraussetzungen
 
-Bevor Sie mit diesem Lernprogramm beginnen, sollten Sie [.net Core 2,2 SDK](https://dotnet.microsoft.com/download) und [Visual Studio Code](https://code.visualstudio.com/) auf Ihrem Entwicklungscomputer installiert haben. Wenn Sie diese nicht installiert haben, besuchen Sie die vorherigen Links für Downloadoptionen.
+Bevor Sie mit diesem Lernprogramm beginnen, sollten Sie [.net Core 2,2 SDK](https://dotnet.microsoft.com/download) und [Visual Studio Code](https://code.visualstudio.com/) auf Ihrem Entwicklungscomputer installiert haben. 
 
 ## <a name="completed-exercises"></a>Abgeschlossene Übungen
 

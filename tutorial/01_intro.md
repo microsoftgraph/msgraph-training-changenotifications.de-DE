@@ -7,10 +7,20 @@ In diesem Lernprogramm erfahren Sie, wie Sie eine .net-Kern-app erstellen, die d
 
 ## <a name="prerequisites"></a>Voraussetzungen
 
-Bevor Sie mit diesem Lernprogramm beginnen, sollten Sie [.net Core 2,2 SDK](https://dotnet.microsoft.com/download) und [Visual Studio Code](https://code.visualstudio.com/) auf Ihrem Entwicklungscomputer installiert haben. Wenn Sie diese nicht installiert haben, besuchen Sie die vorherigen Links für Downloadoptionen.
+Bevor Sie mit diesem Lernprogramm beginnen, sollten Sie [.net Core 2,2 SDK](https://dotnet.microsoft.com/download) und [Visual Studio Code](https://code.visualstudio.com/) auf Ihrem Entwicklungscomputer installiert haben.
 
 > [!NOTE]
 > Dieses Lernprogramm wurde mit .net Core Version 2,2 geschrieben. Die Schritte in diesem Leitfaden funktionieren möglicherweise mit anderen Versionen, jedoch nicht getestet.
+
+## <a name="watch-the-tutorial"></a>Das Lernprogramm ansehen
+
+Dieses Modul wurde aufgezeichnet und steht im YouTube-Kanal für die Office-Entwicklung zur Verfügung.
+
+<!-- markdownlint-disable MD033 MD034 -->
+<br/>
+
+> [!VIDEO https://www.youtube-nocookie.com/embed/fThiCZmIcMQ]
+<!-- markdownlint-enable MD033 MD034 -->
 
 ## <a name="feedback"></a>Feedback
 

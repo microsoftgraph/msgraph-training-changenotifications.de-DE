@@ -16,21 +16,23 @@ In dieser Übungseinheit erstellen Sie eine .net-Kern Konsolenanwendung, die Än
 
 ## <a name="watch-the-module"></a>Modul ansehen
 
-Dieses Modul wurde aufgezeichnet und steht im YouTube-Kanal für Office-Entwicklung zur Verfügung: [Änderungsbenachrichtigungen und Nachverfolgen von Änderungen mit Microsoft Graph](https://youtu.be/MvJ15BHTdHA)
+Dieses Modul wurde aufgezeichnet und steht im YouTube-Kanal für Office-Entwicklung zur Verfügung: [Änderungsbenachrichtigungen und Nachverfolgen von Änderungen mit Microsoft Graph](https://youtu.be/fThiCZmIcMQ)
 
 ## <a name="contributors"></a>Mitwirkende
 
-| Rollen                | Autor (en)                                               |
-| -------------------- | ------------------------------------------------------- |
-| Lab-Handbücher/Folien | Andrew Connell (Microsoft MVP, Voitanos) @andrewconnell |
-| Sponsor/Support    | Jeremy den (Microsoft) @jthake                        |
+|        Rollen         |                                       Autor (en)                                       |
+| -------------------- | ------------------------------------------------------------------------------------- |
+| Lab-Handbücher/Folien | Andrew Connell (Microsoft MVP, Voitanos) [@andrewconnell](//github.com/andrewconnell) |
+| Sponsor/Support    | Jeremy den (Microsoft) [@jthake](//github.com/jthake)                               |
 
 ## <a name="version-history"></a>Versionsverlauf
 
-| Version | Datum           | Kommentare             |
-| ------- | -------------- | -------------------- |
-| 1.1     | 9. April 2019 | Screencast-Link hinzugefügt |
-| 1.0     | 14. März 2019 | Neues Modul übermittelt |
+| Version |      Datum      |                     Kommentare                     |
+| ------- | -------------- | ------------------------------------------------ |
+| 1.3     | 18. Juni 2019  | Readme in aktualisierte Screencast-Aufzeichnung aktualisiert |
+| 1.2     | 30. Mai 2019   | Fy2019Q4-Inhaltsaktualisierung                         |
+| 1.1     | 9. April 2019  | Screencast-Link hinzugefügt                            |
+| 1.0     | 14. März 2019 | Neues Modul übermittelt                             |
 
 ## <a name="disclaimer"></a>Verzichtserklärung
 
